@@ -1,6 +1,7 @@
 # Amigo Secreto 🎁
 
-¡Bienvenido a **Amigo Secreto**! Este es un proyecto web sencillo y divertido que te ayuda a organizar un sorteo de "Amigo Secreto" con tus amigos. Simplemente ingresa los nombres de los participantes, y la aplicación seleccionará aleatoriamente quién le regalará a quién.
+## ¡Bienvenido a **Amigo Secreto**! 
+Este es un proyecto web sencillo y divertido que te ayuda a organizar un sorteo de "Amigo Secreto" con tus amigos. Simplemente ingresa los nombres de los participantes, y la aplicación seleccionará aleatoriamente quién le regalará a quién.
 
 ## Características principales ✨
 
